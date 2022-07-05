@@ -1,0 +1,3 @@
+login ve register componentlerine baxsan yeterlidir.Cunki ha postman ile gonderdik ha bunlar ile post etdik eyni mexrece gelir
+
+Note:  logout ucun header componentini ekledik
