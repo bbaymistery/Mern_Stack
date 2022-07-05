@@ -1,0 +1,6 @@
+http://localhost:5000/api/v1/restaurants  =>all
+http://localhost:5000/api/v1/restaurants?zipcode=10012 =>filter
+
+http://localhost:5000/api/v1/restaurants?zipcode=10012&page=2 =>perpage
+
+postmana request gonderirik ve filter edir
