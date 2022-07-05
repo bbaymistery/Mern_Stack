@@ -1,1 +1,0 @@
-http://localhost:4000/api/v1/post/62a5d7a4feca47d3d1a19f96  =>get request
