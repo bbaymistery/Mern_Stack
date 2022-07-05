@@ -1,0 +1,11 @@
+.accordion-button.collapsed {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.accordion-button {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
