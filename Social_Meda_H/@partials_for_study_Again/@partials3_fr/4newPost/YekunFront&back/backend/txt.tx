@@ -1,0 +1,23 @@
+http://localhost:4000/api/v1/login   =>post manile gonderik
+{
+
+    "email":"user2@.ru",
+    "password":"user123",
+    "name":"user2"
+}
+
+
+http://localhost:4000/api/v1/register =>
+{
+
+    "email":"user2@.ru",
+    "password":"user123",
+    "name":"user2"
+}
+
+
+
+http://localhost:4000/api/v1/post/upload =>createpost
+{
+    "caption":"this my caption333333333333"
+}
