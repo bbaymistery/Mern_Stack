@@ -1,6 +1,0 @@
-const getNotes = asyncHandler(async (req, res) => {
-  const notes = await Note.find({ user: req.user._id });
-  res.json(notes);
-});    burdakini yazili olarag fronta akdardig
-
-{ user: req.user._id }  =>  git user i   bbbbb  aydisi olanlari bul demek
