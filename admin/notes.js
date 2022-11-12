@@ -1,1 +1,0 @@
-//sidebarda reviews cikartdim elemeidm .Ama backendde reviews konusunu ayarladim .Reviews Componentine baksan  deleteRReview getAllReviews hamsi var.Dedgim kimi sadece fonksyonelligi eklememisim 
