@@ -1,0 +1,5 @@
+1.   2.  seklinde siray add ederek gelersek eger 
+
+3ncude backenddde her hansi bi degisiklik olmadiginnan (server.js xaric)
+
+sadece client ve server.js i eklemis olduk 
