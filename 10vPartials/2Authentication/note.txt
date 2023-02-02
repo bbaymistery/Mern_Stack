@@ -1,0 +1,2 @@
+client tarafda degisiklik olamdadiginnan onu eklemedik 
+... eger bitisdirecek olarsansa onda birincin arxasina bunu yapisdir 

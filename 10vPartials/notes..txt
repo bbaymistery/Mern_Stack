@@ -1,0 +1,5 @@
+eger bunu calisasi olsan.Githubda repo ac 
+Sonra sifirdan birinciyi dosyalari visuala ekle ve push et githuba
+Sonra ise her o birine gecende birincini ekledigini sil yenisini kopyala visuala ki visualda gorsetsin harda degisiklik olub deye 
+
+//34 de utils icindeki media show videoya image cevirme eklenirki onu biz basda eledik Yani 34n olmamasi burda sixinti yaratmir
